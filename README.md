@@ -117,3 +117,9 @@ MIT License
 Copyright © 2008-2024 Powered by 743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
+## 注释：一些疑难杂症for 1.9.5
+
+- 如果挂梯子，使用直连模式
+- Failed to write your license to local machine
+- 
+按Windows+R打开运行窗口，输入regedit，点确定，打开注册表，依次展开计算机\HKEY_CURRENT_USER\Software\Typora，然后在Typora上右键，点权限，选中Administrtors，把权限全部设置为允许。
